@@ -1,13 +1,9 @@
 # 高校图书馆座位预约系统 
-
-
-
 ## 技术栈
 - 后端：Spring Boot 3.4.5 + MyBatis-Plus + MySQL 8
 - 前端：Vue 3 + Vite + Element Plus + Axios
 - JDK：17+
 
-## 本版新增
 ### 学生端
 - 更完整的首页与仪表盘
 - 阅览室选择
@@ -65,5 +61,3 @@ student / 123456
 管理员：
 admin / 123456
 
-## 注意
-这是毕业设计/课程设计演示版。Token 使用内存存储，密码目前为明文，正式生产系统应改为 BCrypt + JWT/Redis + 完整权限体系。
